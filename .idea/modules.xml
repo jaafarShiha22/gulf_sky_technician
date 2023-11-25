@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gulf_sky_technician.iml" filepath="$PROJECT_DIR$/gulf_sky_technician.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/gulf_sky_technician_android.iml" filepath="$PROJECT_DIR$/android/gulf_sky_technician_android.iml" />
+    </modules>
+  </component>
+</project>
